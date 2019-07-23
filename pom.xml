@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
+        <spring-cloud.version>Greenwich.SR2</spring-cloud.version>
         <docker.image.name>__placeholder__</docker.image.name>
         <docker.image.tag>__placeholder__</docker.image.tag>
     </properties>
