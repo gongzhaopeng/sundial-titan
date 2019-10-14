@@ -10,7 +10,7 @@
     </parent>
     <groupId>cn.benbenedu.sundial</groupId>
     <artifactId>titan</artifactId>
-    <version>0.5</version>
+    <version>0.6</version>
     <packaging>pom</packaging>
     <name>titan</name>
     <description>Topmost parent dependency.</description>
@@ -73,11 +73,6 @@
             <version>2.3.0.1</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-devtools</artifactId>
-            <scope>runtime</scope>
-        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-configuration-processor</artifactId>
